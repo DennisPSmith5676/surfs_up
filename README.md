@@ -9,14 +9,14 @@ between summer and winter (when temperatures are most likely to be different).
 ## Results
 Three key differences in the temperature data between the months of June and December are:
 
-- December has the coldest minimum temperature (56), which is to be expected as December typically has lower temperatures in the northern hemisphere
-- December has a total of nearly 2,000 less readings for the month, despite have 1 more day in the month than June
+1. December has the coldest minimum temperature (56), which is to be expected as December typically has lower temperatures in the northern hemisphere
+2. December has a total of nearly 2,000 less readings for the month, despite have 1 more day in the month than June
 
 -		December has a total of 1517 readings
 -		June has a total of 1700 readings
 
 
-- The temperatures in December are overall lower than in June as evidenced by the percentiles
+3. The temperatures in December are overall lower than in June as evidenced by the percentiles
 
 -  		December percentiles: 25% 69, 50% 71, 75% 74
 -		June percentiles: 25% 73, 50% 75, 75% 77
