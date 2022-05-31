@@ -21,9 +21,13 @@ Three key differences in the temperature data between the months of June and Dec
 -  		December percentiles: 25% 69, 50% 71, 75% 74
 -		June percentiles: 25% 73, 50% 75, 75% 77
 June Data
-![Page1](Images\june_temp_data.png)
+
+![Page1](.\Images\june_temp_data.png)
+
 Dec Data
-![Page2](Images\dec_temp_data.png)
+
+![Page2](.\Images\dec_temp_data.png)
+
 ## Summary
 The average temperature between the months of June and December in Hawaii is very similar (nearly 75 for June and 71 for December). The maximum temperature is also
 similar (85 for June and 83 for December). While December in general is a colder month the temperature for half of the readings (as indiciated using the
